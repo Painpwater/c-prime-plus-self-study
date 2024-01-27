@@ -4,7 +4,7 @@ void interchange(int,int); //函数原型
 
 int main(void)
 {
-    int x= 5;
+    int x= 7;
     int y= 10;
 
     printf("Originally x =%d and y = %d.\n",x,y);
